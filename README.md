@@ -2,8 +2,8 @@
 
 # 👋 Hi there, I’m Derek Li [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/DrkDL)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/derek-li-204a03106//)  
 
-### 🎓 I was a university graduate from two years ago.
-### 👨‍🏫 Now I am a STEM, robotics instructor!
+### 🎓 I graduated from McMaster University in 2019.
+### 👨‍🏫 I am a STEM, Robotics Instructor at a private academy!
 ### 👀 I’m interested in software development related industries.
 ### 🌱 I’m currently learning everythging! 😆🌐
 ### 🎯 2022 Goals: Contribute more to the department at any company I work for.
