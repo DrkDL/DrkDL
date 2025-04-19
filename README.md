@@ -2,8 +2,9 @@
 
 # 👋 Hi there, I’m Derek Li [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/DrkDL)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/derek-li-204a03106//)  
 
+### 🍁 I am a software developer at Employment Social Development Canada (ESDC).
+### 👨‍🏫 I was a STEM, Robotics Instructor at a private academy.
 ### 🎓 I graduated from McMaster University in 2019.
-### 👨‍🏫 I am a STEM, Robotics Instructor at a private academy!
 ### 👀 I’m interested in software development related industries.
 ### 🌱 I’m currently learning everythging! 😆🌐
 ### 🎯 2022 Goals: Contribute more to the department at any company I work for.
@@ -11,11 +12,11 @@
 
 ---
 
-STEM is fun and exciting. My goal is to be able to contribute to societies which will improve people’s lives and advance the evolving technology by creating efficient tools/machines or designing useful programs/applications.
+My career aspiration is to leverage my expertise to contribute to societal advancements by developing efficient tools, machines, or software applications that improve people’s lives and embrace cutting-edge technology.
 
-When I started teaching robotics, programming, and other IoT projects, I realized I enjoyed coding and designing a lot, and I liked to be around with modern and cutting-edge technology. Since then, I can't stop learning new technology, computer languages, and other computer software that I have never tried before. I started taking online courses to not just self-study but also further develop my computer skills which are useful and popular in the current industry or job market.
+My journey into the world of technology began with teaching robotics, programming, and IoT projects, which ignited my passion for coding and design. Since then, I’ve been on a relentless pursuit of knowledge, constantly expanding my skills in various programming languages and software.
 
-My specialties include quickly learning new skills and programming languages, problem solving, troubleshooting, computer-aided designing (CAD), teaching, and client facing. So far I have **Python, C#, C++, VB, HTML, CSS, PHP, Java, Git/GitHub, MySQL, and AutoCAD/SolidWorks** under my belt. I have started learning **Oracle SQL, ASP.Net, React, Redux, JavaScript/TypeScript, and Python for interview**. I am still enthusiastically grabbing onto any other programming languages such as Apache Spark, Scala, SaaS App with Flask, and AI machine learning with Python and R.
+My core strengths lie in rapid skill acquisition, problem-solving, troubleshooting, computer-aided design, effective teaching, and client interaction. I have a strong command of languages such as **Python, C#, C++, VB, HTML, CSS, PHP, Java, Git/GitHub, and MySQL. Currently, I’m advancing my proficiency in full stack development with Microsoft SQL, ASP.Net, C#, HTML/CSS, and JavaScript**.
 
 ---
 <img align="left" alt="Visual Studio Code" width="28px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
